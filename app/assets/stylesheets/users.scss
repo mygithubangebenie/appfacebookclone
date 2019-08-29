@@ -1,0 +1,24 @@
+// Place all the styles related to the users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+ background-color:gray;
+}
+.main{
+    width: 50%;
+    align-content: center;
+    float:right;
+    padding: 20px;
+    margin: 5px
+}
+.field{
+    width:80%;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 5px;
+    border-radius: 3px;
+    
+}
+.navbar{
+    width:100%;
+}
